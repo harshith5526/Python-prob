@@ -1,3 +1,6 @@
+# program to accept four integers from users and separate themusing floor and mod operator
+
+
 # Read an n-digit integer
 n = int(input("Enter the number of digits: "))
 if n > 0:
