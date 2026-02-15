@@ -1,3 +1,5 @@
+# program to accept 4 integers and arranging them in sorted order
+
 num1 = int(input("Enter the first number: "))
 
 num2 = int(input("Enter the second number: "))
